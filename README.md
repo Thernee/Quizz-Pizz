@@ -1,3 +1,3 @@
 <h1 align="center">Quiz-Pizz!!</h1>
 
-![Quiz-Pizz](images/quiz-gif.avif)
+<img alt="Pop-up Quiz gif" src="/images/quiz-gif.avif" align="center">
