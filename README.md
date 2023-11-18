@@ -1,13 +1,4 @@
 <style>
-  table {
-    border-collapse: collapse;
-    width: 70%;
-    margin-top: 20px;
-    border: 1px solid #bc13fe;
-    box-shadow: 0 0 10px #bc13fe;
-    animation: pulse 1.5s ease-out;
-  }
-
   th, td {
     border: 1px solid #bc13fe;
     padding: 10px;
@@ -49,7 +40,14 @@
 <br>
 <br>
 <h3>Tools used:</h3>
-<table>
+<table style="
+    border-collapse: collapse;
+    width: 70%;
+    margin-top: 20px;
+    border: 1px solid #bc13fe;
+    box-shadow: 0 0 10px #bc13fe;
+    animation: pulse 1.5s ease-out;"
+    >
   <tr>
     <th>Header 1</th>
     <td>Row 1, Col 1</td>
