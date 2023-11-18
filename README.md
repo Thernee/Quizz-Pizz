@@ -1,33 +1,20 @@
 <style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+
   th, td {
-    border: 1px solid #bc13fe;
-    padding: 10px;
-    text-align: center;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
   }
 
   th {
-    background-color: #bc13fe;
-    color: #fff;
-    font-weight: bold;
-    text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 42px #bc13fe,
-      0 0 82px #bc13fe,
-      0 0 92px #bc13fe,
-      0 0 102px #bc13fe,
-      0 0 151px #bc13fe;
+    background-color: #f2f2f2;
   }
-
-  td {
-    background-color: #010a01;
-    color: #fff;
-}
-
-  
 </style>
-
 
 <h1 align="center">Quiz-Pizz!!</h1>
 
@@ -40,14 +27,7 @@
 <br>
 <br>
 <h3>Tools used:</h3>
-<table style="
-    border-collapse: collapse;
-    width: 70%;
-    margin-top: 20px;
-    border: 1px solid #bc13fe;
-    box-shadow: 0 0 10px #bc13fe;
-    animation: pulse 1.5s ease-out;"
-    >
+<table>
   <tr>
     <th>Header 1</th>
     <td>Row 1, Col 1</td>
