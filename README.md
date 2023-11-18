@@ -61,7 +61,7 @@
     0 0 55px #bc13fe,
     0 0 70px #bc13fe,
     0 0 80px #bc13fe;
-
+  }
 }
 </style>
 
