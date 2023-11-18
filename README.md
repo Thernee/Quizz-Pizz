@@ -16,11 +16,11 @@
     <th>Programming Languages</th>
     <td><img src="/images/javascript.png" alt="JavaScript Logo" style="width : 85px; height: 85px"></td>
     <td><img src="/images/python.png" alt="Python Logo" style="width : 85px; height: 85px"></td>
-    <td><img src="/images/bash.png" alt="Bash Logo" style="width : 85px; height: 85px" align="center"></td>
+    <td><img src="/images/bash.png" alt="Bash Logo" style="width : 85px; height: 85px"></td>
   </tr>
   <tr>
     <th>Libraries</th>
-    <td><img src="link_to_library_logo" alt="Library Logo"> Library 1</td>
+    <td><img src="/images/flask.png" alt="Flask Logo" style="width : 85px; height: 85px"></td>
     <td><img src="link_to_library_logo" alt="Library Logo"> Library 2</td>
     <td><img src="link_to_library_logo" alt="Library Logo"> Library 3</td>
   </tr>
