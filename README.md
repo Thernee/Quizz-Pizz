@@ -26,8 +26,8 @@
   </tr>
   <tr>
     <th>Tools</th>
-    <td><img src="link_to_tool_logo" alt="Tool Logo"> Tool 1</td>
-    <td><img src="link_to_tool_logo" alt="Tool Logo"> Tool 2</td>
-    <td><img src="link_to_tool_logo" alt="Tool Logo"> Tool 3</td>
+    <td><img src="/images/browser.png" alt="Browser Logo" style="width : 85px; height: 85px"></td>
+    <td><img src="/images/Nginx.png" alt="Nginx Logo" style="width : 85px; height: 85px"></td>
+    <td><img src="/images/Gunicorn.png" alt="Gunicorn Logo" style="width : 85px; height: 85px"></td>
   </tr>
 </table>
