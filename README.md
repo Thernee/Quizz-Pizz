@@ -1,1 +1,3 @@
-<h1 align="center">Hello world!!</h1>
+<h1 align="center">Quiz-Pizz!!</h1>
+
+![Quiz-Pizz](images/quiz-gif.avif)
