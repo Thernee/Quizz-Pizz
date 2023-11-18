@@ -14,7 +14,7 @@
 <table>
   <tr>
     <th>Programming Languages</th>
-    <td><img src="/images/javascript.png" alt="JavaScript Logo"> JavaScript</td>
+    <td><img src="/images/javascript.png" alt="JavaScript Logo" style="width : 100px; height: 100px"> JavaScript</td>
     <td><img src="link_to_python_logo" alt="Python Logo"> Python</td>
     <td><img src="link_to_java_logo" alt="Java Logo"> Java</td>
   </tr>
