@@ -22,7 +22,7 @@
     <th>Libraries</th>
     <td><img src="/images/flask.png" alt="Flask Logo" style="width : 85px; height: 85px"></td>
     <td><img src="/images/unittesting.png" alt="Unittest Logo" style="width : 85px; height: 85px"></td>
-    <td><img src="/images/jquery.png" alt="Jquery Logo" style="width : 85px; height: 85px"></td>
+    <td><img src="/images/jquery.png" alt="Jquery Logo" style="width : 100px; height: 100px"></td>
   </tr>
   <tr>
     <th>Tools</th>
