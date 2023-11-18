@@ -14,9 +14,9 @@
 <table>
   <tr>
     <th>Programming Languages</th>
-    <td><img src="/images/javascript.png" alt="JavaScript Logo" style="width : 100px; height: 100px"></td>
-    <td><img src="/images/python.png" alt="Python Logo" style="width : 100px; height: 100px"></td>
-    <td><img src="/images/bash.png" alt="Bash Logo" style="width : 100px; height: 100px"></td>
+    <td><img src="/images/javascript.png" alt="JavaScript Logo" style="width : 85px; height: 85px"></td>
+    <td><img src="/images/python.png" alt="Python Logo" style="width : 85px; height: 85px"></td>
+    <td><img src="/images/bash.png" alt="Bash Logo" style="width : 85px; height: 85px"></td>
   </tr>
   <tr>
     <th>Libraries</th>
