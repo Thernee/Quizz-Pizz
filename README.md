@@ -1,21 +1,3 @@
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    margin-top: 20px;
-  }
-
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-  }
-
-  th {
-    background-color: #f2f2f2;
-  }
-</style>
-
 <h1 align="center">Quiz-Pizz!!</h1>
 
 <div align="center">
