@@ -3,7 +3,10 @@
 <div align="center">
   <img alt="Pop-up Quiz gif" src="/images/Quiz2.jpg">
 </div>
-
+<br>
+<br>
+> [!TIP]
+> use dark mode in your browser for better experience!!
 <h3>Project preview:</h3>
 <strong style="margin-left: 10%;">This project is about a web application that manages student Quizzes and grades using <a href="https://opentdb.com/api_config.php">Trivia API</a>. You can try it yourself <a href="/README.md">here</a>, don't forget the star though 😉</strong>
 
@@ -31,3 +34,13 @@
     <td><img src="/images/Gunicorn.png" alt="Gunicorn Logo" style="width : 85px; height: 85px"></td>
   </tr>
 </table>
+
+<h2>Set up the project ⚙️</h2>
+ 1. clone this repo using git :
+    - <code>git clone https://github.com/Abdelmoneim000/ Quizz-Pizz.git
+      </code>
+ 2.Run the application :
+    - In development mode using the following command :
+      - <code>./start-dev</code>
+    - In production mode using the following command :
+      - <code>./start-prod</code>
