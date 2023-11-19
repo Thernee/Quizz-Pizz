@@ -5,8 +5,10 @@
 </div>
 <br>
 <br>
+
 > [!TIP]
 > use dark mode in your browser for better experience!!
+
 <h3>Project preview:</h3>
 <strong style="margin-left: 10%;">This project is about a web application that manages student Quizzes and grades using <a href="https://opentdb.com/api_config.php">Trivia API</a>. You can try it yourself <a href="/README.md">here</a>, don't forget the star though 😉</strong>
 
