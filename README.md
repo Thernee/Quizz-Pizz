@@ -38,11 +38,15 @@
 </table>
 
 <h2>Set up the project ⚙️</h2>
+
  1. clone this repo using git :
-    - <code>git clone https://github.com/Abdelmoneim000/ Quizz-Pizz.git
+    - <code>git clone https://github.com/Abdelmoneim000/Quizz-Pizz.git
       </code>
- 2.Run the application :
+ 2. Run the application :
     - In development mode using the following command :
       - <code>./start-dev</code>
     - In production mode using the following command :
       - <code>./start-prod</code>
+
+> [!NOTE]
+> the previous commands are bash scripts, they don't work on windows as the application is built mainly for linux OS.
