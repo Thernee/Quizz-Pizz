@@ -47,6 +47,11 @@
       - <code>./start-dev</code>
     - In production mode using the following command :
       - <code>./start-prod</code>
+  3. open the browser with the URL `http://127.0. 0.1:5000/home`.
+  
+  4. enjoy 😉.
 
 > [!NOTE]
 > the previous commands are bash scripts, they don't work on windows as the application is built mainly for linux OS.
+
+<h2>File Structure 🏗️ :</h2>
