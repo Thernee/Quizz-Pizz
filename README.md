@@ -39,7 +39,7 @@
 
 <h2>Set up the project ⚙️</h2>
 
- 1. clone this repo using git :
+ 1. Clone this repo using git :
     - <code>git clone https://github.com/Abdelmoneim000/Quizz-Pizz.git
       </code>
  2. Run the application :
@@ -47,11 +47,23 @@
       - <code>./start-dev</code>
     - In production mode using the following command :
       - <code>./start-prod</code>
-  3. open the browser with the URL `http://127.0. 0.1:5000/home`.
+  3. Open the browser with the URL `http://127.0. 0.1:5000/home`.
   
-  4. enjoy 😉.
+  4. Enjoy 😉.
 
 > [!NOTE]
-> the previous commands are bash scripts, they don't work on windows as the application is built mainly for linux OS.
+> The previous commands are bash scripts, they don't work on windows as the application is built mainly for linux OS.
 
 <h2>File Structure 🏗️ :</h2>
+
+> [!TIP]
+> use the command `tree -d` to display it locally
+
+<!--insert the diagram here-->
+---
+
+<h3>Authors and contributers</h3>
+
+<a href="https://github.com/Abdelmoneim000">Abdel-Moneim Ibrahim</a>
+
+<a><!--insert your name and link to your repo here--> </a>
