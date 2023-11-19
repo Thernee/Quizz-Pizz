@@ -70,6 +70,6 @@
 
 ---
 
-<img src="images/caffee.gif">
+<img src="images/caffee.gif" style="width : 400px; height: 300px">
 
 <bold>Happy Coding !!</bold>
