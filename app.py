@@ -20,7 +20,7 @@ def start_quiz():
 @app.route('/current-quiz', strict_slashes=False)
 def current_quiz():
     """Active quiz page"""
-    return "Current quiz..."
+    return "Ongoing quiz..."
 
 
 @app.route('/history', strict_slashes=False)
